@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this concept study, please cite it as below."
+title: "Hydrogen Six-Stroke ECU — Concept Study"
+type: software
+authors:
+  - family-names: "Roshan A S"
+    given-names: "Arun"
+repository-code: "https://github.com/arunroshan-as/Hydrogen-Six-Stroke-ECU-Concept"
+license: MIT
+keywords: [hydrogen, six-stroke engine, ECU, NXP S32G, boxer engine, simulation]

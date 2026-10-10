@@ -1,0 +1,23 @@
+{
+  "_status": "CONCEPT-STAGE PLACEHOLDERS. Not validated calibration data.",
+  "engine": {
+    "layout": "horizontally opposed (boxer) six-cylinder",
+    "cycle": "six-stroke, 1080 deg crank angle per cycle",
+    "power_strokes": [3, 5],
+    "fuel": "hydrogen, gaseous on-board storage",
+    "firing_order": "TBD (multi-cylinder phasing study required)"
+  },
+  "ecu": {
+    "platform": "NXP S32G-VNP-RDB2 (assumed)",
+    "status": "assumed target platform, not procured or flashed"
+  },
+  "operating_envelope_simulated": {
+    "speed_rpm": [1000, 5000],
+    "reference_speeds_rpm": [1000, 3000, 5000]
+  },
+  "safety_limits_placeholder": {
+    "max_coolant_temp_c": 110.0,
+    "max_intake_pressure_bar": 2.0,
+    "max_peak_pressure_bar": 95.0
+  }
+}
