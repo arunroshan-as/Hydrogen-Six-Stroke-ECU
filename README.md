@@ -2,7 +2,6 @@
 
 [![Stage](https://img.shields.io/badge/stage-concept-blue)](#project-status)
 [![Validation](https://img.shields.io/badge/validation-simulation%20only-orange)](#project-status)
-[![Tests](https://github.com/arunroshan-as/Hydrogen-Six-Stroke-ECU-Concept/actions/workflows/ci.yml/badge.svg)](.github/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 A concept-stage engine control unit (ECU) architecture for a **hydrogen-fuelled, six-stroke, horizontally opposed (boxer) six-cylinder engine** with gaseous on-board storage. The ECU is assumed to run on an **NXP S32G-VNP-RDB2** platform. All results in this repository come from **simulation**; no hardware has been built or tested.
